@@ -1,0 +1,215 @@
+
+.signin{
+    background: linear-gradient(0deg, rgba(218, 32, 47, 1) 0%, rgba(238, 44, 60, 1) 100%);
+}
+.bookfree{
+    background: linear-gradient(0deg, rgba(218, 32, 47, 1) 0%, rgba(238, 44, 60, 1) 100%);
+}
+.infoHeader{
+    background: hsl(210, 33%, 98%);
+}
+.h1{
+    font-size: 48px;
+    font-family: 'AvertaStdBold', sans-serif;
+}
+.p span{
+    color: red;
+}
+.bookfreeclass{
+    background: linear-gradient(0deg, rgba(218, 32, 47, 1) 0%, rgba(238, 44, 60, 1) 100%);
+    min-width: 110px;
+}
+.bookfreeclass:hover , .scheduleBtn:hover{
+    background: linear-gradient(0deg, #364049 0%, #364049 100%);
+    color: white;
+}
+.modal-header{
+    border-bottom: 0px solid #e9ecef;
+    padding: 0px 0px 0px 0px;
+}
+.modal-body {
+    height: 380px;
+}
+.modal-body form input{
+    margin-bottom: 15px;
+}
+.cancelbtn{
+    width: 25px;
+    height: 25px;
+}
+.banner, .whyReason , .studyMaterial, .toppershear{
+    background: #fcfcfc;
+}
+.crackexam{
+    background: #f7f9fb;
+}
+.lawentrance{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 25px;
+    background: url("./images/exam-category-img-1.png") no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.joinTelegram{
+    background: #D2E8F4;
+}
+.learnerSupport{
+    background: linear-gradient(to bottom, white, #FEF6F3);
+}
+.application{
+    background: #FCF8E9;
+}
+.application ul li{
+    margin-top: 15px;
+}
+.profile{
+    border: 1px solid  red;
+    width: 150px;
+    height: 150px;
+}
+.showdiv{
+    display: block;
+}
+.rank{
+    background: linear-gradient(to bottom, #FFFEFE, #FEF4F0);
+}
+.para{
+    font-size: 16px;
+}
+.schedule{
+    background: #FCF8E9;
+}
+.Footer{
+    background: #181d27;
+}
+/* #FCF8E9 */
+.scheduleBtn{
+    background: linear-gradient(0deg, rgba(218, 32, 47, 1) 0%, rgba(238, 44, 60, 1) 100%);
+}
+.clatrow ul li, .copyrights{
+    font-size: 13px;
+    font-weight: bold;
+}
+.mockTest{
+    background: #F7F9FB;
+}
+.mockTestCourses button{
+    width: 205px;
+}
+.schlorship{
+    background: #ffeed7;
+}
+#cardCarousel .owl-prev {
+    width: 28px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right: 45px;
+    top: -75px;
+    text-align: center;
+}
+#cardCarousel .owl-next {
+    width: 28px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right: 10px;
+    top: -75px;
+    text-align: center;
+}
+#learnfromtopeducators .owl-prev {
+    width: 28px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right: 45px;
+    top: -75px;
+    text-align: center;
+}
+#learnfromtopeducators .owl-next {
+    width: 28px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right: 10px;
+    top: -75px;
+    text-align: center;
+}
+#headlines .owl-prev {
+    width: 35px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right:50px;
+    top: -88px;
+    text-align: center;
+}
+#headlines .owl-next {
+    width: 35px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right: 0px;
+    top: -88px;
+    text-align: center;
+}
+#latestPosts .owl-prev {
+    width: 35px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right:50px;
+    top: -88px;
+    text-align: center;
+}
+#latestPosts .owl-next {
+    width: 35px;
+    height: 35px;
+    border-radius: 9px;
+    border: 1px solid rgb(234, 234, 234);
+    position: absolute;
+    right: 0px;
+    top: -88px;
+    text-align: center;
+}
+.headlinebtn{
+    right: 120px;   
+}
+
+#headlines .item .card img{
+    background: url("/images/image-bg-image.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.updateimage{
+    height: 330px;
+}
+#studentsTestimonials{
+    width: 100%;
+}
+#studentsTestimonials .card{
+    background: #F7F9FB;
+    padding: 10px;
+}
+#studentsTestimonials .owl-next, #studentsTestimonials .owl-prev{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(235, 234, 234);
+}
+.calender{
+    width: 15px;
+}
+.haveQues{
+    background: #fef2ec;
+}
+/*  #F7F9FB     */

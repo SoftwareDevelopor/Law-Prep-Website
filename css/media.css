@@ -1,0 +1,31 @@
+@media only screen and (min-width:0px) and (max-width: 575px) {
+    /* CSS for mobile devices */
+    #menubar{
+        width: 100%;
+    }
+    .infoHeader{
+        height: auto;
+    }
+    .info{
+        width: 100%;
+        height: auto;
+    }
+    .inf{
+        font-size: 11px;
+    }
+    #trustModal{
+        overflow-x: auto;
+        scroll-behavior: smooth;
+    }
+    .cardReason{
+        height: 310px;
+        padding: 5px;
+    }
+    #learnfromtopeducators .owl-prev , #learnfromtopeducators .owl-next , #headlines .owl-next , #headlines .owl-prev , #latestPosts .owl-prev , #latestPosts .owl-next {
+        display: none;
+    }
+    .headlinebtn{
+        right: 0px;   
+    }
+   
+}
